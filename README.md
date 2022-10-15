@@ -1,8 +1,7 @@
 
 ---
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4500&pause=1000&color=2280CA&center=true&width=435&height=154&lines=Welcome!;MR.MAG1C+%2F+MRxMAG1C+%2F+Marcus" alt="Typing SVG" /></a>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4500&pause=1000&color=2280CA&center=true&width=435&height=39&lines=Welcome!;MR.MAG1C+%2F+MRxMAG1C+%2F+Marcus" alt="Typing SVG" /></a>
 <a target="_blank" href="https://discord.com/users/508185291584962560">
    <img src="https://cdn.discordapp.com/avatars/508185291584962560/a_4c7aa88184ba99b4834086b6d1adf283.gif?size=640" align="right" />
 </a>
