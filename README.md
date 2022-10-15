@@ -2,7 +2,7 @@
 
 </div>
     <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Kanit&duration=4500&pause=1000&color=2F95FDD4=C81E09&size=32&center=true&vCenter=true&width=600&height=43&lines=Welcome!;MR.MAG1C+%2F+MRxMAG1C+%2F+Marcus" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Kanit&duration=4500&pause=1000&color=FD5858&size=32&center=true&vCenter=true&width=600&height=43&lines=Welcome!;MR.MAG1C+%2F+MRxMAG1C+%2F+Marcus" alt="Typing SVG" />
     </div>
     
 ---
