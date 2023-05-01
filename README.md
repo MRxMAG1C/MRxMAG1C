@@ -12,8 +12,6 @@
 
 > **Name |** Marcus <br> **Age  |** 15
 
-> **`Developer` at https://hjemezez.dk/**
-
 > **Website | https://daugbjerg.eu/marcus-dh/**
 
 <br>
