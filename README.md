@@ -10,9 +10,9 @@
 
 ### ABOUT ME
 
-> **Name |** Marcus <br> **Age  |** 15
+> **Name |** Marcus <br> **Age  |** 16
 
-> **Website | https://daugbjerg.eu/marcus-dh/**
+> **Website | https://www.techblitz.xyz/**
 
 <br>
 
