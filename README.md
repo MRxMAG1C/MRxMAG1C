@@ -10,7 +10,7 @@
 
 ### ABOUT ME
 
-> **Name |** Marcus <br> **Age  |** 17
+> **Name |** Marcus <br> **Age  |** 18
 
 > **Website | https://www.techblitz.xyz/**
 
